@@ -8,7 +8,7 @@ import javalib.impworld.*;
 import java.awt.Color;
 import javalib.worldimages.*;
 
-// Extra Credit: Click Count, Timer, Restart
+
 // comparator that checks the difference between two given edges
 class CompareEdge implements Comparator<Edge> {
   public int compare(Edge o1, Edge o2) {
